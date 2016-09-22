@@ -1,0 +1,42 @@
+/* Empty. Add your own CSS if you like */
+.caja{
+  text-align: center;
+  }
+.jugar{
+  margin: 5% 1em;
+  font-family: 'Times New Roman', Times, serif;
+  }
+.ayuda{
+ margin:20% 1em;
+ font-family: 'Times New Roman', Times, serif;
+ }
+.creditos{
+  margin: 35% 1em;
+  font-family: 'Times New Roman', Times, serif;
+}
+.salir{
+  margin: 40% 1em;
+    font-family: Georgia, "Times New Roman",
+         Times, serif
+
+}
+.ayudas{
+  text-align: center;
+}q
+.ayudaa{
+  margin: 1% 1em;
+}
+.ok{
+  margin:  1% 1em;
+  font-family: 'Times New Roman', Times, serif;
+}
+.credi{
+  text-align: center;
+}
+.credit{
+  margin: 1% 1em;
+}
+.okey{
+  margin: 2% 1em;
+  font-family: 'Times New Roman', Times, serif;
+}
